@@ -1,0 +1,5 @@
+mode: set
+e/hello.go:5.32,6.20 1 1
+e/hello.go:6.20,8.3 1 1
+e/hello.go:8.8,10.3 1 1
+e/main.go:9.13,17.2 4 0

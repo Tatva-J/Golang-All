@@ -1,0 +1,10 @@
+golangci-lint run//to run the linter
+
+
+ golangci-lint help linters//to see info about the linter
+
+
+ golangci-lint linters//to see enables linters
+
+
+ golangci-lint run --disable-all -E errcheck//here in place of errcheck other names would come from the .yml linting file.

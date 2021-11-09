@@ -1,0 +1,5 @@
+f, err := os.OpenFile(filename, os.O_WRONLY | os.O_CREATE, 0755)
+if err != nil {
+    # handle
+}
+logrus.SetOutput(f)
