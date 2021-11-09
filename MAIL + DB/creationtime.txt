@@ -1,0 +1,1 @@
+table creation time and adding records is 278 ms.
